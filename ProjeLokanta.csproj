@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EF658DDD-1636-47E0-9E5A-A76832333378}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjeLokanta</RootNamespace>
+    <AssemblyName>ProjeLokanta</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAdmin.Designer.cs">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHesap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHesap.Designer.cs">
+      <DependentUpon>FormHesap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKullanici.Designer.cs">
+      <DependentUpon>FormKullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasa.Designer.cs">
+      <DependentUpon>FormMasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminPanel.Designer.cs">
+      <DependentUpon>frmAdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDestek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDestek.Designer.cs">
+      <DependentUpon>frmDestek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHakkimizdacs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHakkimizdacs.Designer.cs">
+      <DependentUpon>frmHakkimizdacs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmloglar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmloglar.Designer.cs">
+      <DependentUpon>frmloglar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRezervasyon.Designer.cs">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRezervasyonlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRezervasyonlar.Designer.cs">
+      <DependentUpon>frmRezervasyonlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRezOnay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRezOnay.Designer.cs">
+      <DependentUpon>frmRezOnay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa10.Designer.cs">
+      <DependentUpon>frmMasa10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa9.Designer.cs">
+      <DependentUpon>frmMasa9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa8.Designer.cs">
+      <DependentUpon>frmMasa8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa7.Designer.cs">
+      <DependentUpon>frmMasa7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa6.Designer.cs">
+      <DependentUpon>frmMasa6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa5.Designer.cs">
+      <DependentUpon>frmMasa5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa3.Designer.cs">
+      <DependentUpon>frmMasa3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa4.Designer.cs">
+      <DependentUpon>frmMasa4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa2.Designer.cs">
+      <DependentUpon>frmMasa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar\frmMasa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar\frmMasa1.designer.cs">
+      <DependentUpon>frmMasa1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelEkle.Designer.cs">
+      <DependentUpon>frmPersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelHesapAyar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelHesapAyar.Designer.cs">
+      <DependentUpon>frmPersonelHesapAyar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrunler.Designer.cs">
+      <DependentUpon>frmUrunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmyetkiliekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmyetkiliekle.Designer.cs">
+      <DependentUpon>frmyetkiliekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYetkiliHesapAyar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYetkiliHesapAyar.Designer.cs">
+      <DependentUpon>frmYetkiliHesapAyar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ortak.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAdmin.resx">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHesap.resx">
+      <DependentUpon>FormHesap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKullanici.resx">
+      <DependentUpon>FormKullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasa.resx">
+      <DependentUpon>FormMasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminPanel.resx">
+      <DependentUpon>frmAdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDestek.resx">
+      <DependentUpon>frmDestek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHakkimizdacs.resx">
+      <DependentUpon>frmHakkimizdacs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmloglar.resx">
+      <DependentUpon>frmloglar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRezervasyon.resx">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRezervasyonlar.resx">
+      <DependentUpon>frmRezervasyonlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRezOnay.resx">
+      <DependentUpon>frmRezOnay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa10.resx">
+      <DependentUpon>frmMasa10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa9.resx">
+      <DependentUpon>frmMasa9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa8.resx">
+      <DependentUpon>frmMasa8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa7.resx">
+      <DependentUpon>frmMasa7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa6.resx">
+      <DependentUpon>frmMasa6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa5.resx">
+      <DependentUpon>frmMasa5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa3.resx">
+      <DependentUpon>frmMasa3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa4.resx">
+      <DependentUpon>frmMasa4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa2.resx">
+      <DependentUpon>frmMasa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar\frmMasa1.resx">
+      <DependentUpon>frmMasa1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelEkle.resx">
+      <DependentUpon>frmPersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelHesapAyar.resx">
+      <DependentUpon>frmPersonelHesapAyar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUrunler.resx">
+      <DependentUpon>frmUrunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmyetkiliekle.resx">
+      <DependentUpon>frmyetkiliekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYetkiliHesapAyar.resx">
+      <DependentUpon>frmYetkiliHesapAyar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Properties\Image\Icons\Adsız.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

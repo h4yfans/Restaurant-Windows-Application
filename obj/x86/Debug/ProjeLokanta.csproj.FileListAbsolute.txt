@@ -1,0 +1,177 @@
+C:\Users\MELIH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.exe
+C:\Users\MELIH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.pdb
+C:\Users\MELIH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Properties.Resources.resources
+C:\Users\MELIH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csproj.GenerateResource.Cache
+C:\Users\MELIH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.exe
+C:\Users\MELIH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.pdb
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csprojResolveAssemblyReference.cache
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormGiris.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormHesap.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormMasa.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormSecim.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.formAdmin.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormKullanici.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmAdminPanel.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmUrunler.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelEkle.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmyetkiliekle.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelHesapAyar.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmYetkiliHesapAyar.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.exe
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.pdb
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.exe
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.pdb
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csprojResolveAssemblyReference.cache
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormGiris.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.formAdmin.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormHesap.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormKullanici.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormMasa.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormSecim.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmAdminPanel.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelEkle.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelHesapAyar.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmUrunler.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmyetkiliekle.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmYetkiliHesapAyar.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Properties.Resources.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csproj.GenerateResource.Cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.exe
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.exe
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormGiris.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.formAdmin.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormHesap.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormKullanici.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormMasa.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormSecim.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmAdminPanel.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmDestek.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmHakkimizdacs.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Masalar.frmMasa1.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelEkle.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelHesapAyar.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmUrunler.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmyetkiliekle.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmYetkiliHesapAyar.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Properties.Resources.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csprojResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csproj.GenerateResource.Cache
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmDestek.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmHakkimizdacs.resources
+c:\users\melih\documents\visual studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Masalar.frmMasa1.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmDestek.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmHakkimizdacs.resources
+C:\Users\MELİH\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Masalar.frmMasa1.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa2.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa3.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa4.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa5.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa6.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa7.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa8.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa9.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa10.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.exe
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.pdb
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.exe
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.pdb
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormGiris.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.formAdmin.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormHesap.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormKullanici.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormMasa.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmAdminPanel.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmDestek.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmHakkimizdacs.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa10.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa9.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa8.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa7.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa6.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa5.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa3.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa4.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa2.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Masalar.frmMasa1.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelEkle.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelHesapAyar.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmUrunler.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmyetkiliekle.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmYetkiliHesapAyar.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Properties.Resources.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezervasyon.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezOnay.resources
+C:\Users\Burak\Desktop\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezervasyonlar.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.exe
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.exe
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csprojResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormGiris.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.formAdmin.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormHesap.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormKullanici.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormMasa.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmAdminPanel.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmDestek.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmHakkimizdacs.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezervasyon.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezervasyonlar.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezOnay.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa10.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa9.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa8.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa7.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa6.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa5.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa3.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa4.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa2.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Masalar.frmMasa1.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelEkle.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelHesapAyar.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmUrunler.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmyetkiliekle.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmYetkiliHesapAyar.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Properties.Resources.resources
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.exe
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.pdb
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.exe
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\bin\Debug\ProjeLokanta.pdb
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormGiris.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.formAdmin.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormHesap.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormKullanici.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.FormMasa.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmAdminPanel.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmDestek.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmHakkimizdacs.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezervasyon.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezervasyonlar.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmRezOnay.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa10.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa9.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa8.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa7.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa6.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa5.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa3.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa4.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmMasa2.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Masalar.frmMasa1.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelEkle.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmPersonelHesapAyar.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmUrunler.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmyetkiliekle.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmYetkiliHesapAyar.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.Properties.Resources.resources
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Burak\Desktop\Yeni klasör 215151\DATA\ProjeLokanta\ProjeLokanta\ProjeLokanta\obj\x86\Debug\ProjeLokanta.frmloglar.resources
